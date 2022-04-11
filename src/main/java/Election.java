@@ -2,6 +2,7 @@
 public class Election {
 public int age=20;
 private String electiontype="Sarapancha election";
+	private int wardNo;
 
 public static void main(String []args) {
 Election Obj=new Election();
