@@ -1,6 +1,4 @@
 
-public class Election
+public class Sinple{
 
-	
-}
 }
